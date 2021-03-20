@@ -15,7 +15,7 @@ function footer (){
     <span>12645 N Saguaro Blvd #11 Fountain Hills, AZ 85268</span>
     </div>
     <div className="row text-mute">
-    <span ><p>© 2019 Euro Pizza Cafe</p></span>
+    <span><p>© 2019 Euro Pizza Cafe</p></span>
     </div>
 
     

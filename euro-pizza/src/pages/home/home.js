@@ -40,7 +40,7 @@ function Home() {
       <div className="pt-3 row black text-center">
         <p className="text-light h3 border-bottom border-danger">OUR PHILOSOPHY</p>
       </div>
-      <div className="row black text-center">
+      <div className="row black text-center pt-3">
         <p className="text-light col-lg-8 offset-lg-2 col-md-10 offset-md-1 col-sm-10 offset-sm-1 col-10 offset-1">Euro Pizza Café strives to create an oasis from your daily routine by serving great tasting food in a pleasant, relaxing atmosphere. Enjoy a relaxing meal on our patio. We offer the closest dining to the world-famous fountain. All of our entrees are made from scratch and prepared to your order using only the highest quality seafood, meats, pasta and the freshest vegetables. We encourage and welcome your remarks regarding your experience at the Euro Pizza Café. Please feel free to fill out a customer comment card, email us, or call and speak directly with us. We know you have a choice and we appreciate the fact that you have chosen the Euro Pizza Café.</p>
       </div>
     </div>
