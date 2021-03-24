@@ -1,0 +1,16 @@
+.border{
+    border-color: #ff0102 !important;
+}
+
+.border-red{
+    border-color: #ff0102 !important;
+}
+
+#border-width{
+    max-width: 850px;
+    
+}
+
+.text-red{
+    color: red;
+}

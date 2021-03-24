@@ -14,7 +14,7 @@ function Home() {
     <div id = "header" className="container-fluid">
 
       <div className="row black">
-        <div id="carouselExampleSlidesOnly" className="carousel slide" data-interval= "5000" data-bs-ride="carousel">
+        <div id="carouselExampleSlidesOnly" className="carousel slide" data-interval="10" data-bs-ride="carousel">
           <div className="carousel-inner">
             <div className="carousel-item active">
               <img className="d-block w-100" src={Header} alt="First slide" />

@@ -15,15 +15,15 @@ function navbar (){
     <div className="collapse justify-content-center navbar-collapse" id="navbarSupportedContent">
       <ul className="navbar-nav ">
         <li className="nav-item h5">
-          <a className="nav-link active" aria-current="page" href="#">Home</a>
+          <a className="nav-link active" aria-current="page" href="/">Home</a>
         </li>
         <li className="nav-item dropdown h5">
           <a className="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
             Menu
           </a>
           <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
-            <li><a className="dropdown-item" href="#">Breakfast</a></li>
-            <li><a className="dropdown-item" href="#">Lunch</a></li>
+            <li><a className="dropdown-item" href="/breakfast">Breakfast</a></li>
+            <li><a className="dropdown-item" href="/lunch">Lunch</a></li>
             <li><a className="dropdown-item" href="#">Appetizers and Salads</a></li>
             <li><a className="dropdown-item" href="#">Entrees</a></li>
             <li><a className="dropdown-item" href="#">Pizza and Calzones</a></li>
