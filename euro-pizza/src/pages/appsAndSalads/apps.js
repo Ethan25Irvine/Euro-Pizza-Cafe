@@ -27,17 +27,9 @@ function Apps() {
                 </div>
                 <p className="border-width mx-auto">Ranch, Blue Cheese, Italian, Balsamic Vinaigerette, Ceasar, Honey Mustard, 1000 Island, Zesty Orange Vinaigerette, Olive Oil & Vinegar</p>
             </div>
-                    
-
-            {/* <div className="text-center row mx-auto">
-                <h5 id="border-width" className="border-bottom border-red mb-3 mx-auto">Grade AA Egg Combos</h5>
+            <div className="text-center mt-5">
+                <p className="fst-italic">Prices subject to change</p>
             </div>
-            <div className="row mx-auto border-bottom border-red" id="border-width">
-                <h5 className="col-10 col-sm-10 col-md-11 col-lg-11 text-red">Two Eggs</h5>
-                <h5 className="col-1 col-sm-1 col-md-1 col-lg-1  text-red">6.5</h5>
-                <p className="col-10">Served w/ homemade potatoes & choice of toast<br/>
-                Love eggs? Ask for a 3rd egg free</p>
-            </div> */}
 
         </div>
     )

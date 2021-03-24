@@ -5,24 +5,6 @@ import MenuItem from '../../components/menuCard/card';
 
 import Menu from './db/db';
 
-// function MenuItem(props){
-//     console.log(props)
-// //     props.breakfast.map(data =>{
-// // return (
-// //     <div>
-// //         <div className="text-center row mx-auto">
-// //                 <h3 id="border-width" className="border-bottom border-red mb-3 mx-auto">{data.header}</h3>
-// //             </div>
-// //             <div className="row mx-auto border-bottom border-red" id="border-width">
-// //                 <h5 className="col-10 col-sm-10 col-md-11 col-lg-11 text-red">Two Eggs</h5>
-// //                 <h5 className="col-1 col-sm-1 col-md-1 col-lg-1  text-red">6.5</h5>
-// //                 <p className="col-10">Served w/ homemade potatoes & choice of toast<br/>
-// //                 Love eggs? Ask for a 3rd egg free</p>
-// //             </div>
-// //     </div>
-// // )
-// //     })
-// }
 
 function Breakfast() {
 
@@ -39,16 +21,9 @@ function Breakfast() {
             </div>
 
             <MenuItem menu={{Menu}}/>
-
-            {/* <div className="text-center row mx-auto">
-                <h3 id="border-width" className="border-bottom border-red mb-3 mx-auto">Grade AA Egg Combos</h3>
+            <div className="text-center mt-5">
+                <p className="fst-italic">Prices subject to change</p>
             </div>
-            <div className="row mx-auto border-bottom border-red" id="border-width">
-                <h5 className="col-10 col-sm-10 col-md-11 col-lg-11 text-red">Two Eggs</h5>
-                <h5 className="col-1 col-sm-1 col-md-1 col-lg-1  text-red">6.5</h5>
-                <p className="col-10">Served w/ homemade potatoes & choice of toast<br/>
-                Love eggs? Ask for a 3rd egg free</p>
-            </div> */}
 
         </div>
     )
