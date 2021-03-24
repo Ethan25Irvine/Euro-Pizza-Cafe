@@ -9,6 +9,7 @@ import Breakfast from './pages/breakfast/bfast';
 import Lunch from './pages/lunch/lunch';
 import Appetizers from './pages/appsAndSalads/apps';
 import Entrees from './pages/entrees/entrees';
+import Pizza from './pages/pizzaAndCalzones/pizza';
 
 import './style.css';
 
@@ -21,7 +22,7 @@ function App() {
       <Route exact path="/lunch" component={Lunch}/>
       <Route exact path="/apps" component={Appetizers}/>
       <Route exact path="/entrees" component={Entrees}/>
-
+      <Route exact path="/pizza" component={Pizza}/>
       <Footer />
     </Router>
 
