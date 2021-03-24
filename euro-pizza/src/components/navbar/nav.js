@@ -24,14 +24,14 @@ function navbar (){
           <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
             <li><a className="dropdown-item" href="/breakfast">Breakfast</a></li>
             <li><a className="dropdown-item" href="/lunch">Lunch</a></li>
-            <li><a className="dropdown-item" href="#">Appetizers and Salads</a></li>
-            <li><a className="dropdown-item" href="#">Entrees</a></li>
-            <li><a className="dropdown-item" href="#">Pizza and Calzones</a></li>
-            <li><a className="dropdown-item" href="#">Beverages</a></li>
+            <li><a className="dropdown-item" href="/apps">Appetizers and Salads</a></li>
+            <li><a className="dropdown-item" href="/entrees">Entrees</a></li>
+            <li><a className="dropdown-item" href="/pizza">Pizza and Calzones</a></li>
+            <li><a className="dropdown-item" href="#/beverages">Beverages</a></li>
           </ul>
         </li>
         <li className="nav-item h5">
-          <a className="nav-link" href="#">Contact Us</a>
+          <a className="nav-link" href="/contact">Contact Us</a>
         </li>
       </ul>
     </div>

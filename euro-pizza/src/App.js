@@ -7,6 +7,7 @@ import Footer from './components/footer/footer';
 import Home from './pages/home/home';
 import Breakfast from './pages/breakfast/bfast';
 import Lunch from './pages/lunch/lunch';
+import Appetizers from './pages/appsAndSalads/apps';
 
 import './style.css';
 
@@ -17,6 +18,7 @@ function App() {
       <Route exact path="/" component={Home}/>
       <Route exact path="/breakfast" component={Breakfast}/>
       <Route exact path="/lunch" component={Lunch}/>
+      <Route exact path="/apps" component={Appetizers}/>
       <Footer />
     </Router>
 

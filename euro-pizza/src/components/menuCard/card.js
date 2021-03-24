@@ -36,7 +36,7 @@ function ItemDescription(props) {
                     return(
  <div className="row mx-auto border-bottom border-dark mt-3" id="border-width">
                     <h5 className="col-10 col-sm-10 col-md-11 col-lg-11 text-red">{data2.name}</h5>
-                    <h5 className="col-1 col-sm-1 col-md-1 col-lg-1  text-red">{data2.price}</h5>
+                    <h5 className="col-1 col-sm-1 col-md-1 col-lg-1  text-red text-end">{data2.price}</h5>
                     {data2.description === "" ? (null):(split[0]==="" ? (<p className="col-10"><strong>{split[1]}</strong></p>):(<p className="col-10">{split[0]}<br/><strong>{split[1]}</strong></p>))}
                     {/* <p className="col-10">{data2.description.split('\n')}</p> */}
                     {/* (data2.description.split('\n').map(str =><p className="col-10">{str}</p>)) */}
