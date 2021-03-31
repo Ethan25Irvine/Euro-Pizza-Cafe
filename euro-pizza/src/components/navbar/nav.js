@@ -27,7 +27,7 @@ function navbar (){
             <li><a className="dropdown-item" href="/apps">Appetizers and Salads</a></li>
             <li><a className="dropdown-item" href="/entrees">Entrees</a></li>
             <li><a className="dropdown-item" href="/pizza">Pizza and Calzones</a></li>
-            <li><a className="dropdown-item" href="#/beverages">Beverages</a></li>
+            <li><a className="dropdown-item" href="/beverages">Beverages</a></li>
           </ul>
         </li>
         <li className="nav-item h5">

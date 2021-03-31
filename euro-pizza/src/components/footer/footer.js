@@ -6,7 +6,7 @@ function footer (){
        <footer className="black  pt-5 mt-auto text-center">
 <div class="container-fluid">
     <div className="row text-danger">
-    <span>7 Days/week 7:30 AM - 9 PM | Breakfast, Lunch & Dinner</span>
+    <span>7 Days A Week 7:30 AM - 9 PM | Breakfast, Lunch & Dinner</span>
     </div>
     <div className="row text-danger">
     <span>(480) 836-0207</span>
@@ -15,7 +15,7 @@ function footer (){
     <span>12645 N Saguaro Blvd #11 Fountain Hills, AZ 85268</span>
     </div>
     <div className="row text-mute">
-    <span><p>© 2019 Euro Pizza Cafe</p></span>
+    <span><p>© 2021 Euro Pizza Cafe</p></span>
     </div>
 
     
