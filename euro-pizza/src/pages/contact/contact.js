@@ -1,7 +1,7 @@
 import React from 'react';
 import "./style.css";
 
-// const icon = <FontAwesomeIcon icon={faFacebook} />
+
 
 function Contact() {
     return (

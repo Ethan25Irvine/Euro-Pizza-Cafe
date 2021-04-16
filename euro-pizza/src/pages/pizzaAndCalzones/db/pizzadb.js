@@ -48,38 +48,38 @@ const Entrees = [
             {
                 key: 1,
                 name: "Euro's Special LegardeuxⓋ",
-                price14: "17",
-                price16: "20",
+                price14: "18",
+                price16: "21",
                 description: "Pesto, garlic, roasted tomatoes, mushrooms, caramelized onion, spinach, topped with shredded parmesan cheese.\nAdd gyro meat to make it extra special."
             },{
                 key: 2,
                 name: "BroccoⓋ",
-                price14: "17",
-                price16: "20",
+                price14: "18",
+                price16: "21",
                 description: "Pesto, mozzarella, dollops of ricotta, broccoli, roasted red peppers."
             },{
                 key: 3,
                 name: "BellaⓋ",
-                price14: "16",
-                price16: "19",
+                price14: "17",
+                price16: "20",
                 description: "Olive oil, garlic, basil, tomatoes & mozzarella."
             },{
                 key: 4,
                 name: "Hawaiian",
-                price14: "16",
-                price16: "19",
+                price14: "17",
+                price16: "20",
                 description: "Sauce, mozzarella, ham & pineapple."
             },{
                 key: 5,
                 name: "The Classic",
-                price14: "17",
-                price16: "20",
+                price14: "18",
+                price16: "21",
                 description: "Sauce, mozzarella, pepperoni, sausage, mushrooms, onions & green peppers."
             },{
                 key: 6,
                 name: "Hercules",
-                price14: "17",
-                price16: "20",
+                price14: "18",
+                price16: "21",
                 description: "Sauce, mozzarella, pepperoni, ham, sausage, meatball, bacon, salami."
             },{
                 key: 7,
@@ -90,26 +90,26 @@ const Entrees = [
             },{
                 key: 8,
                 name: "MediterraneanⓋ",
-                price14: "17",
-                price16: "20",
+                price14: "18",
+                price16: "21",
                 description: "Sundried tomatoes, olives, artichoke hearts, olive oil, mozzarella, spinach, feta, and oregano."
             },{
                 key: 9,
                 name: "BBQ Chicken",
-                price14: "17",
-                price16: "20",
+                price14: "18",
+                price16: "21",
                 description: "BBQ chicken, red onion, red pepper, cilantro, cheddar and provolone cheese."
             },{
                 key: 10,
                 name: "Grecian Avocado",
-                price14: "17",
-                price16: "20",
+                price14: "18",
+                price16: "21",
                 description: "Chicken, Olive oil, mozzarella, garlic, feta, red onion, banana peppers, kalamata olives and avocado."
             },{
                 key: 11,
                 name: "Philly Steak",
-                price14: "17",
-                price16: "20",
+                price14: "18",
+                price16: "21",
                 description: "Olive oil, mozzarella, philly meat, onion, red and green peppers, roasted garlic and mushrooms."
             }
         ]

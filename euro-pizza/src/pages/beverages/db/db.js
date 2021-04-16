@@ -5,27 +5,27 @@ const Apps = [
         {
             key: 1,
             name: "Coffe (Regular or Decaf)",
-            price: "2.75",
+            price: "3",
             description: ""
         },{
             key: 2,
             name: "Tea (Green or Regular)",
-            price: "2.75",
+            price: "3",
             description: ""
         },{
             key: 3,
             name: "Milk",
             price: "",
-            description: "\nSmall ($1.50) or Large ($2.50)"
+            description: "\nSmall ($2) or Large ($3)"
         },{
             key: 4,
             name: "Juice (Apple or Orange)",
             price: "",
-            description: "\nSmall ($1.50) or Large ($2.50)"
+            description: "\nSmall ($2) or Large ($3)"
         },{
             key: 5,
             name: "Soft Drinks",
-            price: "2.75",
+            price: "3",
             description: ""
         },{
             key: 7,
@@ -40,37 +40,37 @@ const Apps = [
         },{
             key: 9,
             name: "Root Beer Float",
-            price: "5",
+            price: "6",
             description: ""
         },{
             key: 10,
             name: "Hot Chocolate",
-            price: "3.5",
+            price: "4",
             description: ""
         },{
             key: 11,
             name: "Espresso",
-            price: "2.5",
+            price: "3",
             description: ""
         },{
             key: 12,
             name: "Cappuccino",
-            price: "4",
+            price: "5",
             description: ""
         },{
             key: 13,
             name: "Café Latte",
-            price: "4",
+            price: "5",
             description: ""
         },{
             key: 14,
             name: "Café Mocha",
-            price: "4",
+            price: "5",
             description: ""
         },{
             key: 15,
             name: "Nutty Mocha Latte",
-            price: "4.5",
+            price: "5",
             description: "Almond, vanilla, hazelnut, chocolate syrup, espresso & milk"
         },{
             key: 16,
@@ -90,8 +90,8 @@ const Apps = [
                 description: ""
             },{
                 key: 2,
-                name: "Bloody Mary",
-                price: "7",
+                name: "Signature Bloody Mary",
+                price: "10",
                 description: ""
             },{
                 key: 3,
@@ -101,7 +101,7 @@ const Apps = [
             },{
                 key: 4,
                 name: "Piña Colada",
-                price: "7",
+                price: "8",
                 description: ""
             },{
                 key: 5,
@@ -111,17 +111,17 @@ const Apps = [
             },{
                 key: 6,
                 name: "Tequila Sunrise",
-                price: "7",
+                price: "8",
                 description: ""
             },{
                 key: 7,
                 name: "Irish Cream",
-                price: "7",
+                price: "8",
                 description: ""
             },{
                 key: 8,
                 name: "Belini",
-                price: "7",
+                price: "8",
                 description: ""
             },{
                 key: 9,

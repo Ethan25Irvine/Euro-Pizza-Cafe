@@ -5,37 +5,37 @@ const Calzones = [
         {
             key: 1,
             name: "Ricotta & MozzarellaⓋ",
-            price: "10",
+            price: "11",
             description: ""
         },{
             key: 2,
             name: "Spinach & MushroomⓋ",
-            price: "10",
+            price: "11",
             description: ""
         },{
             key: 3,
             name: "Chicken Roll",
-            price: "11",
+            price: "12",
             description: "Chicken, mushrooms & mozzarella (no ricotta)."
         },{
             key: 4,
             name: "Greek RollⓋ",
-            price: "11",
+            price: "12",
             description: "Spinach, tomatoes, black olives, feta, yellow banana peppers & mozzarella (no ricotta)."
         },{
             key: 5,
             name: "Stromboli",
-            price: "12",
+            price: "13",
             description: "Pepperoni, sausage, onions, green peppers, mushrooms and mozzarella (no ricotta)."
         },{
             key: 6,
             name: "Philly 'Boli",
-            price: "12",
+            price: "13",
             description: "Philly meat, caramelized onions, mushrooms, peppers, mozzarella & cheddar cheese (no ricotta)."
         },{
             key: 6,
             name: "Add filling to any calzone from pizza toppings",
-            price: "1",
+            price: "2",
             description: ""
         }
 

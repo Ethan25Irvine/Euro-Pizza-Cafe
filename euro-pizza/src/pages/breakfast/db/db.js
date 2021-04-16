@@ -69,7 +69,13 @@ const Breakfast = [
                 name: "Waffle Combo",
                 price: "12",
                 description: "2 eggs, 1 waffle, homemade potato fries with a side of bacon or sausage"
-            }, {
+            }, 
+            {
+                key: 10,
+                name: "French Toast Combo",
+                price: "12",
+                description: "2 eggs, French Toast, homemade potato fries with a side of bacon or sausage"
+            },{
                 key: 7,
                 name: "Oatmeal",
                 price: "6",
@@ -153,8 +159,13 @@ const Breakfast = [
                 description: "Scrambled eggs, onion, chicken, tomatoes, cheddar cheese, cilantro & chipotle sauce with a side of homemade potato fries."
             },{
                 key: 3,
-                name: "Breakfast CLub Sandwich",
-                price: "11",
+                name: "Veggie Breakfast Wrap",
+                price: "10",
+                description: "Scrambled eggs with veggies and melted cheese, with a side of fruit."
+            },{
+                key: 4,
+                name: "Breakfast Club Sandwich",
+                price: "10",
                 description: "Scrambled eggs, caramelized onions, sliced ham, bacon strips & melted cheddar with your choice of toast, pita, or bagel."
             }
 
@@ -245,13 +256,13 @@ const Breakfast = [
             {
                 key: 1,
                 name: "Falcon's Breakfast",
-                price: "5",
+                price: "6",
                 description: "Includes juice, 1 pancake, scrambled egg & potatoes"
             },
             {
                 key: 2,
                 name: "Grilled Cheese & Fries",
-                price: "5",
+                price: "6",
                 description: "Includes Juice"
             }
 

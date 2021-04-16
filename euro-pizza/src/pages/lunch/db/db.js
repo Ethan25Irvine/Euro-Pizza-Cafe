@@ -27,7 +27,7 @@ const Lunch = [
                 key: 5,
                 name: "Veggie PiadinaⓋ",
                 price: "10",
-                description: "Sautéed veggies on top of flatbread with a side of hummus\nAdd Chicken or Gyro Meat for $3"
+                description: "Sautéed veggies on top of flatbread with a side of hummus\nAdd Chicken or Gyro Meat for $4"
             },{
                 key: 6,
                 name: "Strawberry Piadina",
@@ -41,13 +41,13 @@ const Lunch = [
             },{
                 key: 8,
                 name: "Pasta PrimaveraⓋ",
-                price: "10",
+                price: "11",
                 description: ""
             },{
                 key: 9,
                 name: "Fettucinne AlfredoⓋ",
-                price: "10",
-                description: "\nAdd Chicken for $3 or Shrimp for $5"
+                price: "11",
+                description: "\nAdd Chicken for $4 or Shrimp for $6"
             },{
                 key: 10,
                 name: "Cheeseburger",
@@ -85,17 +85,17 @@ const Lunch = [
             },{
                 key: 4,
                 name: "Meatball Parmigiana",
-                price: "10",
+                price: "11",
                 description: ""
             },{
                 key: 5,
                 name: "Greek Wrap",
-                price: "",
+                price: "11",
                 description: "Fresh spinach, red onion, sliced tomatoes, cucumber, feta cheese, tzatziki sauce\nAdd Chicken or Lamb Gyro for $3"
             },{
                 key: 6,
                 name: "Gyro",
-                price: "10",
+                price: "11",
                 description: "Gyro meat, onions, tomatoes, and tzatziki sauce, served on pita bread."
             },{
                 key: 7,
@@ -122,19 +122,19 @@ const Lunch = [
             {
                 key: 1,
                 name: "6 Bread Knots with side of marinara sauce",
-                price: "2.5",
+                price: "5",
                 description: ""
             },
             {
                 key: 2,
                 name: "Pita",
-                price: "2.5",
+                price: "3",
                 description: ""
             },
             {
                 key: 3,
                 name: "Marinara",
-                price: "1.5",
+                price: "2",
                 description: ""
             },
             {
@@ -146,7 +146,7 @@ const Lunch = [
             {
                 key: 5,
                 name: "Pesto Sauce",
-                price: "2.5",
+                price: "3",
                 description: ""
             },
             {
@@ -164,13 +164,13 @@ const Lunch = [
             {
                 key: 8,
                 name: "Meatballs",
-                price: "5",
+                price: "6",
                 description: ""
             },
             {
                 key: 9,
                 name: "Rice",
-                price: "3",
+                price: "4",
                 description: ""
             }
 
