@@ -1,6 +1,6 @@
 const Apps = [
 {
-    header: "Everyday Beverages",
+    header: "Allday Beverages",
     food: [
         {
             key: 1,
