@@ -1,4 +1,4 @@
-import { HashRouter, Switch, Route } from "react-router-dom";
+import { BrowserRouter as Router, Route } from "react-router-dom";
 import React from 'react';
 
 
@@ -17,9 +17,8 @@ import './style.css';
 
 function App() {
   return (
-    <HashRouter basename={process.env.PUBLIC_URL}>
+    <Router>
       <Navbar />
-      <Switch>
       <Route exact path="/" component={Home}/>
       <Route exact path="/breakfast" component={Breakfast}/>
       <Route exact path="/lunch" component={Lunch}/>
@@ -28,10 +27,8 @@ function App() {
       <Route exact path="/pizza" component={Pizza}/>
       <Route exact path="/beverages" component={Beverages}/>
       <Route exact path="/contact" component={Contact}/>
-      </Switch>
-      
       <Footer />
-    </HashRouter>
+    </Router>
 
 
   );
