@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Euro-Pizza-Cafe/static/css/main.fdb6c9d7.chunk.css",
+    "main.js": "/Euro-Pizza-Cafe/static/js/main.3f6a4b10.chunk.js",
+    "main.js.map": "/Euro-Pizza-Cafe/static/js/main.3f6a4b10.chunk.js.map",
+    "runtime-main.js": "/Euro-Pizza-Cafe/static/js/runtime-main.d2387b01.js",
+    "runtime-main.js.map": "/Euro-Pizza-Cafe/static/js/runtime-main.d2387b01.js.map",
+    "static/js/2.027404d8.chunk.js": "/Euro-Pizza-Cafe/static/js/2.027404d8.chunk.js",
+    "static/js/2.027404d8.chunk.js.map": "/Euro-Pizza-Cafe/static/js/2.027404d8.chunk.js.map",
+    "index.html": "/Euro-Pizza-Cafe/index.html",
+    "static/css/main.fdb6c9d7.chunk.css.map": "/Euro-Pizza-Cafe/static/css/main.fdb6c9d7.chunk.css.map",
+    "static/js/2.027404d8.chunk.js.LICENSE.txt": "/Euro-Pizza-Cafe/static/js/2.027404d8.chunk.js.LICENSE.txt",
+    "static/media/MainImg.bbf51ff9.jpg": "/Euro-Pizza-Cafe/static/media/MainImg.bbf51ff9.jpg",
+    "static/media/drinks.3f3b7581.jpg": "/Euro-Pizza-Cafe/static/media/drinks.3f3b7581.jpg",
+    "static/media/entrees.b0e568d3.jpg": "/Euro-Pizza-Cafe/static/media/entrees.b0e568d3.jpg",
+    "static/media/euro_pizza_logo.4907e9ae.png": "/Euro-Pizza-Cafe/static/media/euro_pizza_logo.4907e9ae.png",
+    "static/media/header.6d7510de.jpg": "/Euro-Pizza-Cafe/static/media/header.6d7510de.jpg",
+    "static/media/header2.66aea86c.jpg": "/Euro-Pizza-Cafe/static/media/header2.66aea86c.jpg",
+    "static/media/header3.9bb48c65.jpg": "/Euro-Pizza-Cafe/static/media/header3.9bb48c65.jpg",
+    "static/media/header4.326cd8e8.jpg": "/Euro-Pizza-Cafe/static/media/header4.326cd8e8.jpg",
+    "static/media/lunch.27373304.jpg": "/Euro-Pizza-Cafe/static/media/lunch.27373304.jpg",
+    "static/media/pizza.ed70ecaf.jpg": "/Euro-Pizza-Cafe/static/media/pizza.ed70ecaf.jpg",
+    "static/media/salad.14f5b091.jpg": "/Euro-Pizza-Cafe/static/media/salad.14f5b091.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2387b01.js",
+    "static/js/2.027404d8.chunk.js",
+    "static/css/main.fdb6c9d7.chunk.css",
+    "static/js/main.3f6a4b10.chunk.js"
+  ]
+}
