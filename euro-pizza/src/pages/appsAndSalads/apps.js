@@ -1,6 +1,7 @@
 import React from 'react';
 import Menu from './db/db';
 import MenuItem from '../../components/menuCard/card';
+import Main from './img/salad.jpg';
 import './style.css'
 
 function Apps() {
@@ -11,7 +12,7 @@ function Apps() {
                 <h1 id='border-width' className="mx-auto border-red border-bottom border-4 my-3"><strong>APPETIZERS & SALADS</strong></h1>
             </div>
             <div >
-                {/* <img src={Main} className="img-fluid mx-auto d-block my-3" /> */}
+                <img src={Main} className="img-fluid mx-auto d-block my-3" />
             </div>
             <div className="text-center">
                 <p id='border-width' className="mx-auto">Here’s where our menu really starts to shine. Warm up your taste buds with one of our great selection of mouth-watering appetizers and salads. Try our authentic European dishes like Spanokopita, Hummus, or Greek Salad… You can also try an American favorite like Chicken Wings!</p>

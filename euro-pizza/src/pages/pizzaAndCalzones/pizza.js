@@ -1,6 +1,6 @@
 import React from 'react';
 // import "./style.css"
-// import Main from './img/MainImg.jpg';
+import Main from './img/pizza.jpg';
 import MenuItem from '../../components/menuCard/card';
 import PizzaItem from "../../components/menuCard/pizzaCard";
 
@@ -15,7 +15,7 @@ function Pizza() {
                 <h1 id='border-width' className="mx-auto border-red border-bottom border-4 my-3"><strong>PIZZA & CALZONES</strong></h1>
             </div>
             <div >
-                {/* <img src={Main} className="img-fluid mx-auto d-block my-3" /> */}
+                <img src={Main} className="img-fluid mx-auto d-block my-3" />
             </div>
             <div className="text-center">
                 <p id='border-width' className="mx-auto">True to our name, our Pizzas and Calzones are second to none. Whether you select one of our handmade masterpieces or make your own from our selection of fresh toppings, you will not be disappointed. Come in today and try for yourself.</p>

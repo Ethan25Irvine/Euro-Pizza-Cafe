@@ -1,6 +1,7 @@
 import React from 'react';
 import Menu from './db/db';
 import MenuItem from '../../components/menuCard/card';
+import Main from './img/drinks.jpg';
 // import './style.css'
 
 function Apps() {
@@ -11,7 +12,7 @@ function Apps() {
                 <h1 id='border-width' className="mx-auto border-red border-bottom border-4 my-3"><strong>BEVERAGES</strong></h1>
             </div>
             <div >
-                {/* <img src={Main} className="img-fluid mx-auto d-block my-3" /> */}
+                <img src={Main} className="img-fluid mx-auto d-block my-3" />
             </div>
             <div className="text-center">
                 <p id='border-width' className="mx-auto">Enjoy a refreshing beverage whether it be a healthy drink or something to kick off happy hour. We offer a great selection of craft beers and popular hand picked wines. Beer growlers and wine bottles to go are now available as well!</p>
