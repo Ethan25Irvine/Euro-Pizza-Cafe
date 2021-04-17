@@ -7,7 +7,7 @@ function Contact() {
     return (
         <div className="container border border-4 bg-light pb-3 my-5">
             <div className="row text-center mt-5">
-                <h1>Thank you for choosing Euro Pizza Cafe!</h1>
+                <h1>Thank you for choosing Euro Pizza Café!</h1>
             </div>
             <div className="row text-center mt-3">
                 <p>We are open 7 days a week<br /> 7:30 AM to 9:00 PM <br /> Serving Breakfast, Lunch & DInner</p><br />
