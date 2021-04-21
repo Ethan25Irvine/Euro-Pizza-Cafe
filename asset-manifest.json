@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Euro-Pizza-Cafe/static/css/main.e6167e90.chunk.css",
-    "main.js": "/Euro-Pizza-Cafe/static/js/main.c0e676db.chunk.js",
-    "main.js.map": "/Euro-Pizza-Cafe/static/js/main.c0e676db.chunk.js.map",
+    "main.css": "/Euro-Pizza-Cafe/static/css/main.c26f31fd.chunk.css",
+    "main.js": "/Euro-Pizza-Cafe/static/js/main.05c5d945.chunk.js",
+    "main.js.map": "/Euro-Pizza-Cafe/static/js/main.05c5d945.chunk.js.map",
     "runtime-main.js": "/Euro-Pizza-Cafe/static/js/runtime-main.d2387b01.js",
     "runtime-main.js.map": "/Euro-Pizza-Cafe/static/js/runtime-main.d2387b01.js.map",
     "static/js/2.a3663ecd.chunk.js": "/Euro-Pizza-Cafe/static/js/2.a3663ecd.chunk.js",
     "static/js/2.a3663ecd.chunk.js.map": "/Euro-Pizza-Cafe/static/js/2.a3663ecd.chunk.js.map",
     "index.html": "/Euro-Pizza-Cafe/index.html",
-    "static/css/main.e6167e90.chunk.css.map": "/Euro-Pizza-Cafe/static/css/main.e6167e90.chunk.css.map",
+    "static/css/main.c26f31fd.chunk.css.map": "/Euro-Pizza-Cafe/static/css/main.c26f31fd.chunk.css.map",
     "static/js/2.a3663ecd.chunk.js.LICENSE.txt": "/Euro-Pizza-Cafe/static/js/2.a3663ecd.chunk.js.LICENSE.txt",
     "static/media/MainImg.bbf51ff9.jpg": "/Euro-Pizza-Cafe/static/media/MainImg.bbf51ff9.jpg",
     "static/media/drinks.3f3b7581.jpg": "/Euro-Pizza-Cafe/static/media/drinks.3f3b7581.jpg",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.d2387b01.js",
     "static/js/2.a3663ecd.chunk.js",
-    "static/css/main.e6167e90.chunk.css",
-    "static/js/main.c0e676db.chunk.js"
+    "static/css/main.c26f31fd.chunk.css",
+    "static/js/main.05c5d945.chunk.js"
   ]
 }
