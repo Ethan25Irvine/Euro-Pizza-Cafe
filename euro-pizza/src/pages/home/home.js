@@ -35,7 +35,7 @@ function Home() {
       <div className="row mt-3 text-center">
         <h1 className="text-light">CELEBRATING 20 YEARS OF BUSINESS</h1>
         <h3 className="text-light">&</h3>
-        <h1 className="text-light">VOTED BEST PIZZA IN FOUNTAIN HILLS 8 YEARS RUNNING</h1>
+        <h1 className="text-light">VOTED BEST PIZZA IN FOUNTAIN HILLS 9 YEARS RUNNING</h1>
       </div>
       <div className="pt-3 row black text-center">
         <p className="text-light h3 border-bottom border-danger">OUR PHILOSOPHY</p>

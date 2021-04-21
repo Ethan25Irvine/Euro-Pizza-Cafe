@@ -22,3 +22,7 @@
 .nav-item :hover{
     color: red;
 }
+
+.nav-item :focus {
+    background-color: transparent;
+}

@@ -81,7 +81,7 @@ const Entrees = [
         food: [
             {
                 key: 1,
-                name: "Grilled FIsh Fillet (GF)",
+                name: "Grilled Fish Fillet (GF)",
                 price: "MP",
                 description: "Your choice of grilled fish served over sautéed olive oil garlic, broccoli, spinach, asparagus and shredded carrots."
             },{
@@ -142,40 +142,3 @@ const Entrees = [
 export default Entrees;
 
 
-// {
-//     header: "Desserts",
-//     food: [
-//         {
-//             key: 1,
-//             name: "",
-//             price: "",
-//             description: ""
-//         },{
-//             key: 2,
-//             name: "",
-//             price: "",
-//             description: ""
-//         },{
-//             key: 3,
-//             name: "",
-//             price: "",
-//             description: ""
-//         },{
-//             key: 4,
-//             name: "",
-//             price: "",
-//             description: ""
-//         },{
-//             key: 5,
-//             name: "",
-//             price: "",
-//             description: ""
-//         },{
-//             key: 6,
-//             name: "",
-//             price: "",
-//             description: ""
-//         }
-
-//     ]
-// }

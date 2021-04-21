@@ -10,7 +10,7 @@ function Contact() {
                 <h1>Thank you for choosing Euro Pizza Café!</h1>
             </div>
             <div className="row text-center mt-3">
-                <p>We are open 7 days a week<br /> 7:30 AM to 9:00 PM <br /> Serving Breakfast, Lunch & DInner</p><br />
+                <p>We are open 7 days a week<br /> 7:30 AM to 9:00 PM <br /> Serving Breakfast, Lunch & Dinner</p><br />
             </div>
             <div className="row text-center">
                 <p>Call us: <strong>480-836-0207</strong><br /> You can make reservations for parties of 6 or more (days will vary)<br />Order take out for orders of $15 or more with a $4 delivery fee (Only in Fountain Hills)</p>
