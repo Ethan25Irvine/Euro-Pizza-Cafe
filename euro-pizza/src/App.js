@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { HashRouter, Router, Route } from "react-router-dom";
 import React from 'react';
 
 
@@ -17,7 +17,7 @@ import './style.css';
 
 function App() {
   return (
-    <Router>
+    <HashRouter basename='/'>
       <Navbar />
       <Route exact path="/" component={Home}/>
       <Route exact path="/breakfast" component={Breakfast}/>
@@ -28,7 +28,7 @@ function App() {
       <Route exact path="/beverages" component={Beverages}/>
       <Route exact path="/contact" component={Contact}/>
       <Footer />
-    </Router>
+    </HashRouter>
 
 
   );

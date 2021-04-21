@@ -18,3 +18,7 @@
 .logo{
     max-width: 300px; 
 }
+
+.nav-item :hover{
+    color: red;
+}
