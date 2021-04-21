@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Euro-Pizza-Cafe/static/css/main.fdb6c9d7.chunk.css",
-    "main.js": "/Euro-Pizza-Cafe/static/js/main.c544ea90.chunk.js",
-    "main.js.map": "/Euro-Pizza-Cafe/static/js/main.c544ea90.chunk.js.map",
+    "main.css": "/Euro-Pizza-Cafe/static/css/main.e6167e90.chunk.css",
+    "main.js": "/Euro-Pizza-Cafe/static/js/main.c0e676db.chunk.js",
+    "main.js.map": "/Euro-Pizza-Cafe/static/js/main.c0e676db.chunk.js.map",
     "runtime-main.js": "/Euro-Pizza-Cafe/static/js/runtime-main.d2387b01.js",
     "runtime-main.js.map": "/Euro-Pizza-Cafe/static/js/runtime-main.d2387b01.js.map",
-    "static/js/2.027404d8.chunk.js": "/Euro-Pizza-Cafe/static/js/2.027404d8.chunk.js",
-    "static/js/2.027404d8.chunk.js.map": "/Euro-Pizza-Cafe/static/js/2.027404d8.chunk.js.map",
+    "static/js/2.a3663ecd.chunk.js": "/Euro-Pizza-Cafe/static/js/2.a3663ecd.chunk.js",
+    "static/js/2.a3663ecd.chunk.js.map": "/Euro-Pizza-Cafe/static/js/2.a3663ecd.chunk.js.map",
     "index.html": "/Euro-Pizza-Cafe/index.html",
-    "static/css/main.fdb6c9d7.chunk.css.map": "/Euro-Pizza-Cafe/static/css/main.fdb6c9d7.chunk.css.map",
-    "static/js/2.027404d8.chunk.js.LICENSE.txt": "/Euro-Pizza-Cafe/static/js/2.027404d8.chunk.js.LICENSE.txt",
+    "static/css/main.e6167e90.chunk.css.map": "/Euro-Pizza-Cafe/static/css/main.e6167e90.chunk.css.map",
+    "static/js/2.a3663ecd.chunk.js.LICENSE.txt": "/Euro-Pizza-Cafe/static/js/2.a3663ecd.chunk.js.LICENSE.txt",
     "static/media/MainImg.bbf51ff9.jpg": "/Euro-Pizza-Cafe/static/media/MainImg.bbf51ff9.jpg",
     "static/media/drinks.3f3b7581.jpg": "/Euro-Pizza-Cafe/static/media/drinks.3f3b7581.jpg",
     "static/media/entrees.b0e568d3.jpg": "/Euro-Pizza-Cafe/static/media/entrees.b0e568d3.jpg",
@@ -24,8 +24,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d2387b01.js",
-    "static/js/2.027404d8.chunk.js",
-    "static/css/main.fdb6c9d7.chunk.css",
-    "static/js/main.c544ea90.chunk.js"
+    "static/js/2.a3663ecd.chunk.js",
+    "static/css/main.e6167e90.chunk.css",
+    "static/js/main.c0e676db.chunk.js"
   ]
 }
