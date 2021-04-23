@@ -16,16 +16,16 @@ function Home() {
       <div className="row black">
         <div className="carousel slide" data-bs-ride="carousel">
           <div className="carousel-inner">
-            <div className="carousel-item active">
+            <div className="carousel-item active" data-bs-interval="5000">
               <img className="d-block w-100" src={Header} alt="First slide" />
             </div>
-            <div className="carousel-item">
+            <div className="carousel-item" data-bs-interval="5000">
               <img className="d-block w-100" src={Header2} alt="Second slide" />
             </div>
-            <div className="carousel-item">
+            <div className="carousel-item" data-bs-interval="5000">
               <img className="d-block w-100" src={Header3} alt="Third slide" />
             </div>
-            <div className="carousel-item">
+            <div className="carousel-item" data-bs-interval="3000">
               <img className="d-block w-100" src={Header4} alt="Third slide" />
             </div>
           </div>
