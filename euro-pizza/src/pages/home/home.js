@@ -63,10 +63,10 @@ function Home() {
       </div> */}
 
       <div className="row black">
-        <img className="" src={Collage}></img>
+        <img className="mx-auto d-block" src={Collage}></img>
       </div>
       <div className="row black">
-        <img className="" src={Employee}></img>
+        <img className="mx-auto d-block" src={Employee}></img>
       </div>
 
 
