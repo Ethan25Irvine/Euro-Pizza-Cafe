@@ -66,7 +66,7 @@ function Home() {
         <img className="mx-auto d-block" src={Collage}></img>
       </div>
       <div className="row black">
-        <img className="mx-auto d-block" src={Employee}></img>
+        <img className="img-fluid mx-auto d-block" src={Employee}></img>
       </div>
 
 
