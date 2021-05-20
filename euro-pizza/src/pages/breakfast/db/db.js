@@ -150,7 +150,7 @@ const Breakfast = [
                 key: 1,
                 name: "California Wrap",
                 price: "11",
-                description: "Scrambled eggs with cheese, bacon, avocado, potatoes, served with a side of sour cream and fruit"
+                description: "Scrambled eggs with cheese, bacon, avocado, potatoes, served with a side of sour cream and a cup of fruit"
             },
             {
                 key: 2,
@@ -219,12 +219,12 @@ const Breakfast = [
                 description: ""
             },{
                 key: 4,
-                name: "Trukey Patty",
+                name: "Turkey Patty",
                 price: "4",
                 description: ""
             },{
                 key: 5,
-                name: "Chickem",
+                name: "Chicken",
                 price: "3",
                 description: ""
             },{

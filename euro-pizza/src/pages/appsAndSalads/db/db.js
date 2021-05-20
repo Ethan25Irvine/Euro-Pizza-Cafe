@@ -6,7 +6,7 @@ const Apps = [
                 key: 1,
                 name: "Hummus DipⓋ",
                 price: "12",
-                description: "Chickpea dip, Tahini sauce, lemon juice, minced garlic, and cayenne pepper. Served with homemade pita bread and kalamata olives."
+                description: "Chickpea dip, Tahini sauce, lemon juice, minced garlic, and cayenne pepper. Served with homemade pita bread and kalamata olives. Also served with carrots & celery."
             },
             {
                 key: 2,
@@ -18,19 +18,19 @@ const Apps = [
                 key: 3,
                 name: "FalafelⓋ",
                 price: "11",
-                description: "Veggie patties made with fava beans, onions, parsley, cilantro. Side of hummus, tomato, cucumber, red onion & pita bread."
+                description: "Veggie patties made with fava beans, onions, parsley cilantro. Side of hummus, tomato, cucumber, red onion and pita bread."
             },
             {
                 key: 4,
                 name: "Mezze Platter",
                 price: "15",
-                description: "Lamb gyro, chicken gyro, falafel, tzatziki sauce, Kalamata olives & pita bread"
+                description: "Lamb gyro, chicken gyro, falafel, tzatziki sauce, Kalamata olives and pita bread"
             },
             {
                 key: 5,
                 name: "Shrimp & Pesto Dip",
                 price: "13",
-                description: "Sautéed in olive oil and garlic with sundried tomatoes, pesto sauce, vinaigrette, grated parmesan and basil then oven baked. Served with a side of pita bread."
+                description: "Sautéed in olive oil and garlic with sundried tomatoes, pesto sauce, blasamic glaze and grated parmesan. Served with a side of pita bread."
             },
             {
                 key: 6,
@@ -42,7 +42,7 @@ const Apps = [
                 key: 7,
                 name: "Chicken Wings",
                 price: "12",
-                description: "1 lb. of wings plain, mild, hot or BBQ with a side of ranch dressing."
+                description: "1 lb. of wings plain, mild, hot, maple hot and BBQ with a side of ranch dressing, carrots and celery."
             }
         ]
     },{
@@ -67,12 +67,12 @@ const Apps = [
                 key: 4,
                 name: "Avocado Orange Spinach Salad (GF) Ⓥ",
                 price: "10",
-                description: "Tossed with chopped cucumbers, shredded beets and zesty orange vinaigrette dressing, topped with cranberries."
+                description: "Topped with chopped cucumbers, shredded beets, topped with cranberries and zesty orange vinaigrette dressing."
             },{
                 key: 5,
                 name: "Greek Salad (GF)Ⓥ",
                 price: "10",
-                description: "Mixed greens, tomatoes, banana & bell peppers, kalamata olives, cucumbers, feta cheese and viniagrette."
+                description: "Mixed greens, tomatoes, red onion, banana & bell peppers, kalamata olives, cucumbers, feta cheese and viniagrette."
             },{
                 key: 6,
                 name: "Blue Cheese & Walnut Salad (GF) Ⓥ",
@@ -92,12 +92,12 @@ const Apps = [
                 key: 9,
                 name: "BLT Salad (GF)",
                 price: "11",
-                description: "Diced tomatoes, diced red onion, romaine lettuce, tossed in Thousand Island dressing, topped with bacon crumbles and croutons."
+                description: "Diced tomatoes, diced red onion, romaine lettuce, side of Thousand Island dressing, topped with bacon crumbles and croutons."
             },{
                 key: 10,
                 name: "Kale Quinoa Salad (GF)Ⓥ",
                 price: "11",
-                description: "Spinach, parsley, cucumber, quinoa, mint and cranberries, topped with carrots."
+                description: "Baby kale, pinach, parsley, cucumber, quinoa, mint and cranberries, topped with carrots."
             }
         ]
     }

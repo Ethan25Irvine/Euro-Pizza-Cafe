@@ -31,7 +31,7 @@ const Calzones = [
             key: 6,
             name: "Philly 'Boli",
             price: "13",
-            description: "Philly meat, caramelized onions, mushrooms, peppers, mozzarella & cheddar cheese (no ricotta)."
+            description: "Philly meat, caramelized onions, mushrooms, peppers, mozzarella & cheddar cheese."
         },{
             key: 6,
             name: "Add filling to any calzone from pizza toppings",

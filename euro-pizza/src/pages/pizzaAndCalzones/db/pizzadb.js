@@ -26,7 +26,7 @@ const Entrees = [
                 name: "Toppings",
                 price14: "1",
                 price16: "1.5",
-                description: "Italian Sausage, Pepperoni, Philly Meat, Bacon, Salami, Canadian Bacon, Meatballs, Onions, Spinach, Olives, Mushrooms, Eggplant, Broccoli, Green Peppers, Roasted Red Peppers, Jalapénos, Banana Peppers, Pineapple, Tomatoes."
+                description: "Italian Sausage, Pepperoni, Philly Meat, Bacon, Salami, Canadian Bacon, Meatballs, Onions, Spinach, Olives, Mushrooms, Eggplant, Broccoli, Green Peppers, Roasted Red Peppers, Jalapénos, Banana Peppers, Pineapple, Tomatoes, Gryo Meat."
             },{
                 key: 5,
                 name: "Specialty Toppings",
@@ -35,10 +35,16 @@ const Entrees = [
                 description: "Feta cheese, Anchovies, Artichoke, Avocado, or Sundried Tomatoes."
             },{
                 key: 6,
-                name: "",
+                name: "Specialty Toppings",
                 price14: "3",
                 price16: "4",
                 description: "Chicken"
+            },{
+                key: 6,
+                name: "Specialty Toppings",
+                price14: "5",
+                price16: "6",
+                description: "Shrimp"
             }
 
         ]
@@ -68,7 +74,7 @@ const Entrees = [
                 name: "Hawaiian",
                 price14: "17",
                 price16: "20",
-                description: "Sauce, mozzarella, ham & pineapple."
+                description: "Sauce, mozzarella, canadian bacon & pineapple."
             },{
                 key: 5,
                 name: "The Classic",
@@ -80,7 +86,7 @@ const Entrees = [
                 name: "Hercules",
                 price14: "18",
                 price16: "21",
-                description: "Sauce, mozzarella, pepperoni, ham, sausage, meatball, bacon, salami."
+                description: "Sauce, mozzarella, pepperoni, ham, sausage, bacon, salami."
             },{
                 key: 7,
                 name: "Via BiancaⓋ",
@@ -92,7 +98,7 @@ const Entrees = [
                 name: "MediterraneanⓋ",
                 price14: "18",
                 price16: "21",
-                description: "Sundried tomatoes, olives, artichoke hearts, olive oil, mozzarella, spinach, feta, and oregano."
+                description: "Olive oil, garlic, sundried tomatoes, black olives, artichoke hearts, mozzarella, spinach, feta, and oregano."
             },{
                 key: 9,
                 name: "BBQ Chicken",

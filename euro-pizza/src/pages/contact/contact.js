@@ -13,7 +13,7 @@ function Contact() {
                 <p>We are open 7 days a week<br /> 7:30 AM to 9:00 PM <br /> Serving Breakfast, Lunch & Dinner</p><br />
             </div>
             <div className="row text-center">
-                <p>Call us: <strong>480-836-0207</strong><br /> You can make reservations for parties of 6 or more (days will vary)<br />Order take out for orders of $15 or more with a $4 delivery fee (Only in Fountain Hills)</p>
+                <p>Call us: <strong>480-836-0207</strong> or Email Us: <strong>europizzacafe@cox.com</strong><br /> You can make reservations for parties of 6 or more<br />Order take out or Delivery</p>
                 <h4 className="text-danger">Follow us on Social Media <br /> and tag us on your posts!</h4>
                 <div className="row text-center">
                     <h1 className="icon offset-lg-4 offset-md-4 offset-sm-4 offset-2 col-lg-1 col-md-1 col-sm-1 col-2" ><a className="text-dark" href="https://www.facebook.com/europizzacafe?fref=ts" target="_blank"><i class="fab fa-facebook-f"></i></a></h1>

@@ -1,6 +1,6 @@
-#header{
+/* #header{
     position: relative;
-}
+} */
 
 .btn{
     background-color: red !important;
@@ -18,3 +18,16 @@
 .black{
     background-color: black;
 }
+
+.tan{
+    background-color: #dbc5a3;
+}
+
+.wood{
+    background-image: url("./img/wood2.jpg");
+}
+
+/* .bd-black{
+    border: 2px solid red;
+} */
+

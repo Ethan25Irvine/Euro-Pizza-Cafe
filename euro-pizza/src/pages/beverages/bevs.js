@@ -15,7 +15,7 @@ function Apps() {
                 <img src={Main} className="img-fluid mx-auto d-block my-3" />
             </div>
             <div className="text-center">
-                <p id='border-width' className="mx-auto">Enjoy a refreshing beverage whether it be a healthy drink or something to kick off happy hour. We offer a great selection of craft beers and popular hand picked wines. Beer growlers and wine bottles to go are now available as well!</p>
+                <p id='border-width' className="mx-auto">Enjoy a refreshing beverage whether it be a healthy drink or something to kick off happy hour. We offer a great selection of craft beers and popular hand picked wines. Beer and wine to go are now available as well!</p>
             </div>
            
 
@@ -24,7 +24,7 @@ function Apps() {
                 <div id="border-width" className="text-center mt-5 row mx-auto border-bottom border-red">
                     <h3  className=" mx-auto"><strong>Wine & Beer</strong></h3>
                 </div>
-                <p className="border-width mx-auto">Our wine and beer list is constantly changing to provide our customers with new and exciting options. Ask your server for the most up to date items.</p>
+    <p className="border-width mx-auto">Our wine and beer list is constantly changing to provide our customers with new and exciting options. Ask your server for details.</p>
             </div>
             
             <div className="text-center mt-5">

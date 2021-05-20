@@ -30,7 +30,7 @@ const Lunch = [
                 description: "Sautéed veggies on top of flatbread with a side of hummus\nAdd Chicken or Gyro Meat for $4"
             },{
                 key: 6,
-                name: "Strawberry Piadina",
+                name: "Strawberry PiadinaⓋ",
                 price: "12",
                 description: "Flatbread with spinach, red onion, diced tomatoes, walnuts, cranberries, blue cheese crumbles, topped with zesty orange vinaigrette dressing\nAdd Avocado for $2"
             },{
@@ -52,7 +52,7 @@ const Lunch = [
                 key: 10,
                 name: "Cheeseburger",
                 price: "11",
-                description: "All beef or turkey patty cooked to order with provolone or American cheese, onion, lettuce and tomatoes; mayo or mustard upon request. Served with side of fries."
+                description: "Beef patty or turkey patty cooked to order with provolone or american cheese, onion, lettuce and tomatoes; mayo or mustard upon request. Served with side of fries."
             },{
                 key: 11,
                 name: "Chipotle Ranch Burger",
@@ -76,12 +76,12 @@ const Lunch = [
                 key: 2,
                 name: "Italian Combo",
                 price: "11",
-                description: "Genoa Salami, Ham, Bacon and Fresh Provolone Cheese."
+                description: "Genoa salami, ham, bacon, letuce, tomato, onion and provolone cheese."
             },{
                 key: 3,
                 name: "Caprese on PitaⓋ",
                 price: "10",
-                description: "Fresh Mozzarella, tomatoes, fresh basil, red onions, olive oil, black pepper and balsamic glaze\nAdd Chicken or Gyro Meat for $3"
+                description: "Fresh Mozzarella, tomatoes, fresh basil, red onions, olive oil, and balsamic glaze\nAdd Chicken or Gyro Meat for $4"
             },{
                 key: 4,
                 name: "Meatball Parmigiana",
@@ -91,7 +91,7 @@ const Lunch = [
                 key: 5,
                 name: "Greek Wrap",
                 price: "11",
-                description: "Fresh spinach, red onion, sliced tomatoes, cucumber, feta cheese, tzatziki sauce\nAdd Chicken or Lamb Gyro for $3"
+                description: "Fresh spinach, red onion, sliced tomatoes, cucumber, feta cheese, tzatziki sauce\nAdd Chicken or Lamb Gyro for $4"
             },{
                 key: 6,
                 name: "Gyro",
@@ -101,7 +101,7 @@ const Lunch = [
                 key: 7,
                 name: "Philly Steak Sandwich",
                 price: "11",
-                description: "Philly meat, peppers, mushrooms, and onions with melted mozzarella cheese."
+                description: "Philly meat, peppers, mushrooms, and onion with melted mozzarella cheese."
             },{
                 key: 8,
                 name: "California Chicken Sandwich",
@@ -111,7 +111,7 @@ const Lunch = [
                 key: 9,
                 name: "Chicken BBQ Sandwich",
                 price: "11",
-                description: "Grilled chicken breast with BBQ sauce, melted mozzarella cheese, topped with caramelized onion, cilantro, served on a brioche bun."
+                description: "Grilled chicken breast with BBQ sauce, melted mozzarella cheese, topped with caramelized onion, lettuce, tomato, and onion served on a brioche bun."
             }
 
         ]
@@ -119,12 +119,12 @@ const Lunch = [
     {
         header: "Side Dishes",
         food: [
-            {
-                key: 1,
-                name: "6 Bread Knots with side of marinara sauce",
-                price: "5",
-                description: ""
-            },
+            // {
+            //     key: 1,
+            //     name: "6 Bread Knots with side of marinara sauce",
+            //     price: "5",
+            //     description: ""
+            // },
             {
                 key: 2,
                 name: "Pita",
@@ -140,7 +140,7 @@ const Lunch = [
             {
                 key: 4,
                 name: "Alfredo Sauce",
-                price: "2.5",
+                price: "3",
                 description: ""
             },
             {
@@ -172,6 +172,18 @@ const Lunch = [
                 name: "Rice",
                 price: "4",
                 description: ""
+            },
+            {
+                key: 10,
+                name: "Onion Rings",
+                price: "5",
+                description: ""
+            },
+            {
+                key: 11,
+                name: "Side of pasta",
+                price: "5",
+                description: "Penne, Spaghetti, Fettucine, Linguini"
             }
 
         ]
