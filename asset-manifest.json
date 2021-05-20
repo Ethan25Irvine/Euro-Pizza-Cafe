@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/Euro-Pizza-Cafe/static/css/main.c26f31fd.chunk.css",
-    "main.js": "/Euro-Pizza-Cafe/static/js/main.eea9b24d.chunk.js",
-    "main.js.map": "/Euro-Pizza-Cafe/static/js/main.eea9b24d.chunk.js.map",
+    "main.css": "/Euro-Pizza-Cafe/static/css/main.5c48e821.chunk.css",
+    "main.js": "/Euro-Pizza-Cafe/static/js/main.e012b96c.chunk.js",
+    "main.js.map": "/Euro-Pizza-Cafe/static/js/main.e012b96c.chunk.js.map",
     "runtime-main.js": "/Euro-Pizza-Cafe/static/js/runtime-main.d2387b01.js",
     "runtime-main.js.map": "/Euro-Pizza-Cafe/static/js/runtime-main.d2387b01.js.map",
     "static/js/2.a3663ecd.chunk.js": "/Euro-Pizza-Cafe/static/js/2.a3663ecd.chunk.js",
     "static/js/2.a3663ecd.chunk.js.map": "/Euro-Pizza-Cafe/static/js/2.a3663ecd.chunk.js.map",
     "index.html": "/Euro-Pizza-Cafe/index.html",
-    "static/css/main.c26f31fd.chunk.css.map": "/Euro-Pizza-Cafe/static/css/main.c26f31fd.chunk.css.map",
+    "static/css/main.5c48e821.chunk.css.map": "/Euro-Pizza-Cafe/static/css/main.5c48e821.chunk.css.map",
     "static/js/2.a3663ecd.chunk.js.LICENSE.txt": "/Euro-Pizza-Cafe/static/js/2.a3663ecd.chunk.js.LICENSE.txt",
     "static/media/MainImg.bbf51ff9.jpg": "/Euro-Pizza-Cafe/static/media/MainImg.bbf51ff9.jpg",
     "static/media/drinks.3f3b7581.jpg": "/Euro-Pizza-Cafe/static/media/drinks.3f3b7581.jpg",
+    "static/media/employee.9c72f261.jpg": "/Euro-Pizza-Cafe/static/media/employee.9c72f261.jpg",
     "static/media/entrees.b0e568d3.jpg": "/Euro-Pizza-Cafe/static/media/entrees.b0e568d3.jpg",
     "static/media/euro_pizza_logo.4907e9ae.png": "/Euro-Pizza-Cafe/static/media/euro_pizza_logo.4907e9ae.png",
-    "static/media/header.6d7510de.jpg": "/Euro-Pizza-Cafe/static/media/header.6d7510de.jpg",
-    "static/media/header2.66aea86c.jpg": "/Euro-Pizza-Cafe/static/media/header2.66aea86c.jpg",
-    "static/media/header3.9bb48c65.jpg": "/Euro-Pizza-Cafe/static/media/header3.9bb48c65.jpg",
-    "static/media/header4.326cd8e8.jpg": "/Euro-Pizza-Cafe/static/media/header4.326cd8e8.jpg",
+    "static/media/image2.855c3c93.jpg": "/Euro-Pizza-Cafe/static/media/image2.855c3c93.jpg",
     "static/media/lunch.27373304.jpg": "/Euro-Pizza-Cafe/static/media/lunch.27373304.jpg",
+    "static/media/merita2.715230ac.jpg": "/Euro-Pizza-Cafe/static/media/merita2.715230ac.jpg",
     "static/media/pizza.ed70ecaf.jpg": "/Euro-Pizza-Cafe/static/media/pizza.ed70ecaf.jpg",
-    "static/media/salad.14f5b091.jpg": "/Euro-Pizza-Cafe/static/media/salad.14f5b091.jpg"
+    "static/media/salad.14f5b091.jpg": "/Euro-Pizza-Cafe/static/media/salad.14f5b091.jpg",
+    "static/media/style.css": "/Euro-Pizza-Cafe/static/media/wood2.e9fa0df5.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d2387b01.js",
     "static/js/2.a3663ecd.chunk.js",
-    "static/css/main.c26f31fd.chunk.css",
-    "static/js/main.eea9b24d.chunk.js"
+    "static/css/main.5c48e821.chunk.css",
+    "static/js/main.e012b96c.chunk.js"
   ]
 }
