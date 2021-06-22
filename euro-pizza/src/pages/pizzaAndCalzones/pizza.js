@@ -10,7 +10,7 @@ import PizzaMenu from './db/pizzadb';
 function Pizza() {
 
     return (
-        <div className="container border border-4 bg-light pb-3 my-5">
+        <div className="container bg-light pb-3 my-5">
             <div className="text-center ">
                 <h1 id='border-width' className="mx-auto border-red border-bottom border-4 my-3"><strong>PIZZA & CALZONES</strong></h1>
             </div>

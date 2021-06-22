@@ -7,7 +7,7 @@ import Main from './img/lunch.jpg';
 function Lunch() {
 
     return (
-        <div className="container border border-4 bg-light pb-3 my-5">
+        <div className="container bg-light pb-3 my-5">
             <div className="text-center ">
                 <h1 id='border-width' className="mx-auto border-red border-bottom border-4 my-3"><strong>LUNCH</strong></h1>
             </div>

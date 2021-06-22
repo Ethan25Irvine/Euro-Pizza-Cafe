@@ -39,24 +39,7 @@ function Home() {
           <p className="text-dark col-lg-8 offset-lg-2 col-md-10 offset-md-1 col-sm-12  col-12 h4 ">Proudly serving Fountain Hills for more than {<br />}<strong>Twenty Years!</strong></p>
         </div>
       </div> */}
-      {/* <div className="row black">
-        <div className="carousel slide" data-bs-ride="carousel">
-          <div className="carousel-inner">
-            <div className="carousel-item active" data-bs-interval="5000">
-              <img className="d-block w-100" src={Header} alt="First slide" />
-            </div>
-            <div className="carousel-item" data-bs-interval="5000">
-              <img className="d-block w-100" src={Header2} alt="Second slide" />
-            </div>
-            <div className="carousel-item" data-bs-interval="5000">
-              <img className="d-block w-100" src={Header3} alt="Third slide" />
-            </div>
-            <div className="carousel-item" data-bs-interval="5000">
-              <img className="d-block w-100" src={Header4} alt="Fourth slide" />
-            </div>
-          </div>
-        </div>
-      </div> */}
+      {/* 9 */}
       {/* <div className="row tan text-center">
         <div className="py-3 text-dark ">
           <h4>With Gratitude We Welcome You to</h4>

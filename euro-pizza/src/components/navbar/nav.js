@@ -9,7 +9,8 @@ function navbar (){
         <nav id="header" className="navbar navbar-expand-md navbar-dark align-top">
   <div className="container py-0">
     {/* <a className="navbar-brand text-danger" href="#">Euro Pizza Caf&‌egrave;</a> */}
-    <img src={Logo} className="logo "></img>
+    <Link to="/"><img src={Logo} className="logo" ></img></Link>
+    
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
     </button>

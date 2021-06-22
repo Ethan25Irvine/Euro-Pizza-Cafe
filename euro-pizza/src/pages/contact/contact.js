@@ -5,7 +5,7 @@ import "./style.css";
 
 function Contact() {
     return (
-        <div className="container border border-4 bg-light pb-3 my-5">
+        <div className="container bg-light pb-3 my-5">
             <div className="row text-center mt-5">
                 <h1>Thank you for choosing Euro Pizza Café!</h1>
             </div>
