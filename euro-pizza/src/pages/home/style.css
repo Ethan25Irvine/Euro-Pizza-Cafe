@@ -1,10 +1,13 @@
-/* #header{
-    position: relative;
-} */
+.btn {
+    border-color: #ffffff!important;
+    color: #ffffff;
+    
+}
 
-.btn{
-    background-color: red !important;
-    color: white;
+.btn:hover{
+    border-color: #ffffff !important;
+    color: #ffffff !important;
+    background-color: red;
 }
 
 .line{

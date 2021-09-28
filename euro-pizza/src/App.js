@@ -1,10 +1,10 @@
-import { BrowserRouter as Router, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Redirect } from 'react-router-dom';
 import React from 'react';
 
 
 import Navbar from './components/navbar/nav';
 import Footer from './components/footer/footer';
-import Home from './pages/home/home';
+import Home from './pages/home/home2';
 import Breakfast from './pages/breakfast/bfast';
 import Lunch from './pages/lunch/lunch';
 import Appetizers from './pages/appsAndSalads/apps';

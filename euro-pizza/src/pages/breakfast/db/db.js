@@ -154,7 +154,7 @@ const Breakfast = [
             },
             {
                 key: 2,
-                name: "Chipotle Chocken Breakfast Burrito",
+                name: "Chipotle Chicken Breakfast Burrito",
                 price: "10",
                 description: "Scrambled eggs, onion, chicken, tomatoes, cheddar cheese, cilantro & chipotle sauce with a side of homemade potato fries."
             },{

@@ -9,7 +9,7 @@ function Lunch() {
     return (
         <div className="container bg-light pb-3 my-5">
             <div className="text-center ">
-                <h1 id='border-width' className="mx-auto border-red border-bottom border-4 my-3"><strong>ENTRÈES</strong></h1>
+                <h1 id='border-width' className="mx-auto border-red border-bottom border-4 my-3"><strong>ENTRÉES</strong></h1>
             </div>
             <div >
                 <img src={Main} className="img-fluid mx-auto d-block my-3" />
