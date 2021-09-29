@@ -16,7 +16,7 @@ function Lunch() {
             </div>
             <div className="text-center">
                 <p id='border-width' className="mx-auto">Take a break from work or meet up with friends to enjoy a delicious lunch with favorites like our Meatball Parmigiana or a delightful Gyro. All with a perfect view of the world famous Fountain, courtesy of Euro Pizza Café. </p>
-                <h5 className="">Ⓥ = Vegetarian </h5>
+                <h5 className=""><span style={{color: "green"}}>Ⓥ</span> = Vegetarian </h5>
                 <h5 className="">(GF) = Gluten Free</h5>
             </div>
            

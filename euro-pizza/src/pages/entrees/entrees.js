@@ -16,7 +16,7 @@ function Lunch() {
             </div>
             <div className="text-center">
                 <p id='border-width' className="mx-auto">From our Chipotle Chicken Pasta to our Spaghetti with Homemade Marinara Sauce, our Dinner Entrees burst with flavor, thanks to our fresh ingredients and authentic recipes from across Europe. Enjoy your meal with your family in our cozy dining room, or take in the fresh air outside on our terrace and watch the moon rise behind the famous fountain. Either way, it is our pleasure to serve you and to make you feel at home.</p>
-                <h5 className="">Ⓥ = Vegetarian </h5>
+                <h5 className=""><span style={{color: "green"}}>Ⓥ</span> = Vegetarian </h5>
                 <h5 className="">(GF) = Gluten Free</h5>
                 <h5 className="">MP = Market Price</h5>
 

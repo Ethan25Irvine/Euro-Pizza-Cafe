@@ -30,12 +30,14 @@ const Entrees = [
         food: [
             {
                 key: 1,
-                name: "Dr. Oz Mediterranean Veggies (GF)Ⓥ",
+                name: "Dr. Oz Mediterranean Veggies (GF)",
+                veggie: " Ⓥ",
                 price: "12",
                 description: "Mushrooms, carrots, spinach, onion, tomatoes, zucchini, julienne bell peppers and broccoli, lightly sautéed with garlic, tossed with Mediterranean spices, topped with kalamata olives & feta cheese, then drizzled with reduced balsamic vinaigrette. \nAdd Chicken or Gyro Meat for $4 or Add Shrimp for $6"
             },{
                 key: 2,
-                name: "Spaghetti with Homemade Marinara SauceⓋ",
+                name: "Spaghetti with Homemade Marinara Sauce",
+                veggie: " Ⓥ",
                 price: "11",
                 description: "\nAdd Chicken or Gyro Meat for $4 or Add Shrimp for $6"
             },{
@@ -50,12 +52,14 @@ const Entrees = [
                 description: "Chicken breast sautéed with onion, sundried tomatoes and spinach, with white wine-rosemary-cream sauce, topped with feta and provolone cheese, baked in the oven, served over rice."
             },{
                 key: 6,
-                name: "Fettuccine AlfredoⓋ",
+                name: "Fettuccine Alfredo",
+                veggie: " Ⓥ",
                 price: "14",
                 description: "\nAdd Chicken for $4 or Add Shrimp for $6"
             },{
                 key: 7,
-                name: "Eggplant ParmigianaⓋ",
+                name: "Eggplant Parmigiana",
+                veggie: " Ⓥ",
                 price: "15",
                 description: "Breaded eggplant topped with mozzarella then oven baked. Served with choice of marinara or pesto sauce."
             },{

@@ -19,7 +19,7 @@ function Pizza() {
             </div>
             <div className="text-center">
                 <p id='border-width' className="mx-auto">True to our name, our Pizzas and Calzones are second to none. Whether you select one of our handmade masterpieces or make your own from our selection of fresh toppings, you will not be disappointed. Come in today and try for yourself.</p>
-                <h5 className="">Ⓥ = Vegetarian </h5>
+                <h5 className=""><span style={{color: "green"}}>Ⓥ</span> = Vegetarian </h5>
             </div>
 <PizzaItem menu={{PizzaMenu}}/>
             {/* <div>

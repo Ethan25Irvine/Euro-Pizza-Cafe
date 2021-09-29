@@ -13,7 +13,7 @@ function PizzaDescription(props) {
             return (
                 <div className="row mx-auto border-bottom border-dark mt-3" id="border-width">
 
-                    <h5 className="col-8 col-sm-8 col-md-10 col-lg-10 text-red">{data2.name}</h5>
+                    <h5 className="col-8 col-sm-8 col-md-10 col-lg-10 text-red">{data2.name}<span style={{color: "green"}}>{data2.veggie}</span></h5>
                     <h5 className="col-2 col-sm-2 col-md-1 col-lg-1  text-red text-end">{data2.price14}</h5>
                     <h5 className="col-2 col-sm-2 col-md-1 col-lg-1  text-red text-end">{data2.price16}</h5>
                     {data2.description === "" ? (null) : (split[0] === "" ? (<p className="col-10 fst-italic fw-bold">{split[1]}</p>) : (<p className="col-10">{split[0]}<br /><span className="fst-italic fw-bold">{split[1]}</span></p>))}

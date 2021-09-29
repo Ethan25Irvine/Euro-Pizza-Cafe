@@ -4,19 +4,22 @@ const Apps = [
         food: [
             {
                 key: 1,
-                name: "Hummus DipⓋ",
+                name: "Hummus Dip",
+                veggie: " Ⓥ",
                 price: "12",
                 description: "Chickpea dip, Tahini sauce, lemon juice, minced garlic, and cayenne pepper. Served with homemade pita bread and kalamata olives. Also served with carrots & celery."
             },
             {
                 key: 2,
-                name: "Spinach & Artichoke DipⓋ",
+                name: "Spinach & Artichoke Dip",
+                veggie: " Ⓥ",
                 price: "10",
                 description: "Melted Feta & Parmesan cheese, Fresh Spinach, Artichoke Hearts, and Garlic, served with our homemade pita bread."
             },
             {
                 key: 3,
-                name: "FalafelⓋ",
+                name: "Falafel",
+                veggie: " Ⓥ",
                 price: "11",
                 description: "Veggie patties made with fava beans, onions, parsley cilantro. Side of hummus, tomato, cucumber, red onion and pita bread."
             },
@@ -34,7 +37,8 @@ const Apps = [
             },
             {
                 key: 6,
-                name: "SpanakopitaⓋ",
+                name: "Spanakopita",
+                veggie: " Ⓥ",
                 price: "11",
                 description: "Spinach and feta cheese wrapped in filo dough and oven baked with a side of tzatziki sauce."
             },
@@ -60,22 +64,26 @@ const Apps = [
                 description: "Cup($4) or Bowl($6) \nMade Fresh Daily"
             },{
                 key: 3,
-                name: "Fresh Garden SaladⓋ",
+                name: "Fresh Garden Salad",
+                veggie: " Ⓥ",
                 price: "5",
                 description: "Mixed greens, tomatoes, cucumbers, red onions, carrots, served with your choice of dressing."
             },{
                 key: 4,
-                name: "Avocado Orange Spinach Salad (GF) Ⓥ",
+                name: "Avocado Orange Spinach Salad (GF)",
+                veggie: " Ⓥ",
                 price: "10",
                 description: "Topped with chopped cucumbers, shredded beets, topped with cranberries and zesty orange vinaigrette dressing."
             },{
                 key: 5,
-                name: "Greek Salad (GF)Ⓥ",
+                name: "Greek Salad (GF)",
+                veggie: " Ⓥ",
                 price: "10",
                 description: "Mixed greens, tomatoes, red onion, banana & bell peppers, kalamata olives, cucumbers, feta cheese and viniagrette."
             },{
                 key: 6,
-                name: "Blue Cheese & Walnut Salad (GF) Ⓥ",
+                name: "Blue Cheese & Walnut Salad (GF)",
+                veggie: " Ⓥ",
                 price: "10",
                 description: "Mixed greens, tomatoes, cucumbers, onions, blue cheese crumbles and walnuts"
             },{
@@ -85,7 +93,8 @@ const Apps = [
                 description: "Crisp romaine lettuce, Caesar dressing, garlic herb croutons topped with parmesan."
             },{
                 key: 8,
-                name: "Insalata Caprese (GF) Ⓥ",
+                name: "Insalata Caprese (GF)",
+                veggie: " Ⓥ",
                 price: "10",
                 description: "Slices of fresh tomatoes with basil, fresh mozzarella, olive oil and balsamic glaze."
             },{
@@ -95,7 +104,8 @@ const Apps = [
                 description: "Diced tomatoes, diced red onion, romaine lettuce, side of Thousand Island dressing, topped with bacon crumbles and croutons."
             },{
                 key: 10,
-                name: "Kale Quinoa Salad (GF)Ⓥ",
+                name: "Kale Quinoa Salad (GF)",
+                veggie: " Ⓥ",
                 price: "11",
                 description: "Baby kale, pinach, parsley, cucumber, quinoa, mint and cranberries, topped with carrots."
             }

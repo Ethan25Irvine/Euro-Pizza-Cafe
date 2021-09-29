@@ -53,19 +53,22 @@ const Entrees = [
         food: [
             {
                 key: 1,
-                name: "Euro's Special LegardeuxⓋ",
+                name: "Euro's Special Legardeux",
+                veggie: " Ⓥ",
                 price14: "18",
                 price16: "21",
                 description: "Pesto, garlic, roasted tomatoes, mushrooms, caramelized onion, spinach, topped with shredded parmesan cheese.\nAdd gyro meat to make it extra special."
             },{
                 key: 2,
-                name: "BroccoⓋ",
+                name: "Brocco",
+                veggie: " Ⓥ",
                 price14: "18",
                 price16: "21",
                 description: "Pesto, mozzarella, dollops of ricotta, broccoli, roasted red peppers."
             },{
                 key: 3,
-                name: "BellaⓋ",
+                name: "Bella",
+                veggie: " Ⓥ",
                 price14: "17",
                 price16: "20",
                 description: "Olive oil, garlic, basil, tomatoes & mozzarella."
@@ -89,13 +92,15 @@ const Entrees = [
                 description: "Sauce, mozzarella, pepperoni, ham, sausage, bacon, salami."
             },{
                 key: 7,
-                name: "Via BiancaⓋ",
+                name: "Via Bianca",
+                veggie: " Ⓥ",
                 price14: "17",
                 price16: "20",
                 description: "Mozzarella, provolone, Parmesan, Feta, olive oil and garlic."
             },{
                 key: 8,
-                name: "MediterraneanⓋ",
+                name: "Mediterranean",
+                veggie: " Ⓥ",
                 price14: "18",
                 price16: "21",
                 description: "Olive oil, garlic, sundried tomatoes, black olives, artichoke hearts, mozzarella, spinach, feta, and oregano."

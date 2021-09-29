@@ -4,12 +4,14 @@ const Calzones = [
         food: [
             {
                 key: 1,
-                name: "Ricotta & MozzarellaⓋ",
+                name: "Ricotta & Mozzarella",
+                veggie: " Ⓥ",
                 price: "11",
                 description: ""
             }, {
                 key: 2,
-                name: "Spinach & MushroomⓋ",
+                name: "Spinach & Mushroom",
+                veggie: " Ⓥ",
                 price: "11",
                 description: ""
             }, {
@@ -19,7 +21,8 @@ const Calzones = [
                 description: "Chicken, mushrooms & mozzarella (no ricotta)."
             }, {
                 key: 4,
-                name: "Greek RollⓋ",
+                name: "Greek Roll",
+                veggie: " Ⓥ",
                 price: "12",
                 description: "Spinach, tomatoes, black olives, feta, yellow banana peppers & mozzarella (no ricotta)."
             }, {

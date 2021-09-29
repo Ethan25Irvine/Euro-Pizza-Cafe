@@ -10,7 +10,7 @@ const Lunch = [
             },
             {
                 key: 2,
-                name: "Pizza by the slice (until 3:00)Ⓥ",
+                name: "Pizza by the slice (until 3:00)",
                 price: "2.5",
                 description: "\nAdd choice of toppings from pizza menu for 50¢ each"
             },{
@@ -25,12 +25,14 @@ const Lunch = [
                 description: "Bowl of soup and side salad"
             },{
                 key: 5,
-                name: "Veggie PiadinaⓋ",
+                name: "Veggie Piadina",
+                veggie: " Ⓥ",
                 price: "10",
                 description: "Sautéed veggies on top of flatbread with a side of hummus\nAdd Chicken or Gyro Meat for $4"
             },{
                 key: 6,
-                name: "Strawberry PiadinaⓋ",
+                name: "Strawberry Piadina",
+                veggie: " Ⓥ",
                 price: "12",
                 description: "Flatbread with spinach, red onion, diced tomatoes, walnuts, cranberries, blue cheese crumbles, topped with zesty orange vinaigrette dressing\nAdd Avocado for $2"
             },{
@@ -40,12 +42,14 @@ const Lunch = [
                 description: "Flatbread topped with diced chicken, red onion, avocado, bell peppers, tomato, spinach, feta cheese, zesty orange vinaigrette dressing"
             },{
                 key: 8,
-                name: "Pasta PrimaveraⓋ",
+                name: "Pasta Primavera",
+                veggie: " Ⓥ",
                 price: "11",
                 description: ""
             },{
                 key: 9,
-                name: "Fettucinne AlfredoⓋ",
+                name: "Fettucinne Alfredo",
+                veggie: " Ⓥ",
                 price: "11",
                 description: "\nAdd Chicken for $4 or Shrimp for $6"
             },{
@@ -79,7 +83,8 @@ const Lunch = [
                 description: "Genoa salami, ham, bacon, letuce, tomato, onion and provolone cheese."
             },{
                 key: 3,
-                name: "Caprese on PitaⓋ",
+                name: "Caprese on Pita",
+                veggie: " Ⓥ",
                 price: "10",
                 description: "Fresh Mozzarella, tomatoes, fresh basil, red onions, olive oil, and balsamic glaze\nAdd Chicken or Gyro Meat for $4"
             },{

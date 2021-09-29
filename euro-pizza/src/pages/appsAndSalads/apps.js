@@ -16,7 +16,7 @@ function Apps() {
             </div>
             <div className="text-center">
                 <p id='border-width' className="mx-auto">Here’s where our menu really starts to shine. Warm up your taste buds with one of our great selection of mouth-watering appetizers and salads. Try our authentic European dishes like Spanokopita, Hummus, or Greek Salad… You can also try an American favorite like Chicken Wings!</p>
-                <h5 className="">Ⓥ = Vegetarian </h5>
+                <h5 className=""><span style={{color: "green"}}>Ⓥ</span> = Vegetarian </h5>
                 <h5 className="">(GF) = Gluten Free</h5>
             </div>
            
