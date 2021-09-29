@@ -15,11 +15,11 @@ function Contact() {
             <div className="row text-center">
                 <p>Call us: <strong>480-836-0207</strong> or Email Us: <strong>europizzacafe@cox.com</strong><br /> You can make reservations for parties of 6 or more<br />Order take out or Delivery</p>
                 <h4 className="text-danger">Follow us on Social Media <br /> and tag us on your posts!</h4>
-                <div className="row text-center">
-                    <h1 className="icon offset-lg-4 offset-md-4 offset-sm-4 offset-2 col-lg-1 col-md-1 col-sm-1 col-2" ><a className="text-dark" href="https://www.facebook.com/europizzacafe?fref=ts" target="_blank"><i class="fab fa-facebook-f"></i></a></h1>
-                    <h1 className="icon col-lg-1 col-md-1 col-sm-1 col-2"><a className="text-dark" href="https://www.instagram.com/europizzacafe/" target="_blank"><i class="fab fa-instagram"></i></a></h1>
-                    <h1 className="icon col-lg-1 col-md-1 col-sm-1 col-2"><a className="text-dark" href="https://www.yelp.com/biz/euro-pizza-cafe-fountain-hills" target="_blank"><i class="fab fa-yelp"></i></a></h1>
-                    <h1 className="icon col-lg-1 col-md-1 col-sm-1 col-2"><a className="text-dark" href="https://www.tripadvisor.com/Restaurant_Review-g31227-d510942-Reviews-Euro_Pizza_Cafe-Fountain_Hills_Arizona.html" target="_blank"><i class="fab fa-tripadvisor"></i></a></h1>
+                <div className="row text-center justify-content-center">
+                    <h1 className="col-lg-1 col-md-1 col-sm-1" ><a className="text-dark" href="https://www.facebook.com/europizzacafe?fref=ts" target="_blank"><i class="fab fa-facebook-f"></i></a></h1>
+                    <h1 className="icon col-lg-1 col-md-1 col-sm-1 "><a className="text-dark" href="https://www.instagram.com/europizzacafe/" target="_blank"><i class="fab fa-instagram"></i></a></h1>
+                    <h1 className="icon col-lg-1 col-md-1 col-sm-1 "><a className="text-dark" href="https://www.yelp.com/biz/euro-pizza-cafe-fountain-hills" target="_blank"><i class="fab fa-yelp"></i></a></h1>
+                    {/* <h1 className="icon col-lg-1 col-md-1 col-sm-1 col-2"><a className="text-dark" href="https://www.tripadvisor.com/Restaurant_Review-g31227-d510942-Reviews-Euro_Pizza_Cafe-Fountain_Hills_Arizona.html" target="_blank"><i class="fab fa-tripadvisor"></i></a></h1> */}
 
                 </div>
             </div>
