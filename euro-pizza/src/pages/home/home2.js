@@ -21,18 +21,12 @@ function Home() {
                     <img className="img-fluid mx-auto d-block" src={Sign}></img>
                 </div>
             </div>
-            {/* <div className="row black no-gutters">
-        <div className="col">
-          <img className="img-fluid mx-auto d-block" src={Employee}></img>
-        </div>
-      </div> */}
+
 
             <div className="row bg-dark text-center py-3 g-0">
                 <div className="col">
                     <div className="text-light ">
-                        {/* <h4>With Gratitude We Welcome You to</h4>
-            <h4></h4>
-            <h1 className="text-danger display-3"><strong>EURO PIZZA CAFÈ</strong> </h1> */}
+
                         <h4 className="">Your Gathering Place for Family, Friends and New Acquaintances</h4>
 
                     </div>
@@ -52,12 +46,12 @@ function Home() {
                 </div>
             </div>
 
-            <div className="row">
+            <div className="row g-0">
                 <div class="card bg-transparent border-dark p-0 text-white  col-lg-3 col-md-3 col-sm-6 ">
                     <img src={Breakfast} className="card-img" alt="..." />
                     <div className="card-img-overlay text-center pt-5">
-                        <h5 className="card-title" style={{ textDecoration: 'underline white'}}>BREAKFAST</h5>
-        <p className="card-text">Start your morning off with a cup of coffee and our high quality breakfast selection. {<br/>}{<br/>}</p>
+                        <h5 className="card-title" style={{ textDecoration: 'underline white' }}>BREAKFAST</h5>
+                        <p className="card-text">Start your morning off with a cup of coffee and our high quality breakfast selection.{<br />}</p>
                         <a href="/breakfast" class="btn btn-dark btn-lg ">Breakfast Menu</a>
                     </div>
                 </div>
@@ -65,23 +59,23 @@ function Home() {
                     <img src={Lunch} className="card-img" alt="..." />
                     <div className="card-img-overlay text-center pt-5">
                         <h5 className="card-title" style={{ textDecoration: 'underline white' }}>LUNCH</h5>
-                        <p className="card-text">Nothing better than lunch on the patio with the best view of the fountain in all of {<br/>}Fountain Hills.</p>
+                        <p className="card-text">Nothing better than lunch on the patio with the best view in Fountain Hills.{<br />}</p>
                         <a href="/lunch" class="btn btn-dark btn-lg ">Lunch Menu</a>
                     </div>
                 </div>
                 <div className="card  bg-transparent border-dark p-0 text-white  col-lg-3 col-md-3 col-sm-6">
                     <img src={Dinner} className="card-img" alt="..." />
                     <div className="card-img-overlay text-center pt-5">
-                        <h5 className="card-title" style={{ textDecoration: 'underline white'}}>ENTRÉES</h5>
-                        <p className="card-text">Choose from our wide selection of European inspired dishes. From the Dr. OZ Medeteranean to our Lamb Kafta.</p>
+                        <h5 className="card-title" style={{ textDecoration: 'underline white' }}>ENTRÉES</h5>
+                        <p className="card-text">Enjoy a glass of wine and choose from our wide selection of European inspired dishes.</p>
                         <a href="/entrees" class="btn btn-dark btn-lg ">Entrée Menu</a>
                     </div>
                 </div>
                 <div className="card bg-transparent border-dark p-0 text-white  col-lg-3 col-md-3 col-sm-6">
                     <img src={Pizza} className="card-img" alt="..." />
                     <div className="card-img-overlay text-center pt-5">
-                        <h5 className="card-title" style={{ textDecoration: 'underline white'}}>PIZZA</h5>
-                        <p className="card-text">Enjoy our award winning Pizza and Calzones. {<br />} Voted Fountain Hills best 9 years and running.</p>
+                        <h5 className="card-title" style={{ textDecoration: 'underline white' }}>PIZZA</h5>
+                        <p className="card-text">Enjoy our award winning Pizza and Calzones. {<br />} Voted Fountain Hills best 9 years running.{<br />}</p>
                         <a href="/pizza" class="btn btn-lg btn-dark">Pizza Menu</a>
                     </div>
                 </div>
