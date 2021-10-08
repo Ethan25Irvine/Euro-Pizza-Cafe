@@ -15,7 +15,8 @@ const Lunch = [
                 description: "\nAdd choice of toppings from pizza menu for 50¢ each"
             },{
                 key: 3,
-                name: "Spaghetti with Homemade Marinara SauceⓋ",
+                name: "Spaghetti with Homemade Marinara Sauce",
+                veggie: " Ⓥ",
                 price: "8",
                 description: "\nAdd Meatballs or Meat Sauce for $2"
             },{

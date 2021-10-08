@@ -15,4 +15,4 @@
     color: red;
 }
 
-span::after {content: "Ⓥ"; color: green !important;}
+/* span::after {content: "Ⓥ"; color: green !important;} */

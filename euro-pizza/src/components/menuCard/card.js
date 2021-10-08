@@ -15,7 +15,6 @@ function ItemDescription(props) {
                     <h5 className="col-10 col-sm-10 col-md-11 col-lg-11 text-red" id="veggie" >{data2.name}<span style={{color: "green"}}>{data2.veggie}</span></h5>
                     <h5 className="col-1 col-sm-1 col-md-1 col-lg-1  text-dark text-end">{data2.price}</h5>
                     {data2.description === "" ? (null) : (split[0] === "" ? (<p className="col-10"><strong>{split[1]}</strong></p>) : (<p className="col-10">{split[0]}<br /><strong>{split[1]}</strong></p>))}
-
                 </div>
             )
         })
